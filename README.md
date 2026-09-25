@@ -19,7 +19,7 @@ Estudiante de Ciencias Computacionales en la UANL, apasionada por el desarrollo 
 
 ## 📌 Proyectos 
 
-En mis repositorios encontrarás algunos de los trabajos que he realizado durante mi carrera, junto con una explicación de su propósito y funcionamiento. [repositorios](https://github.com/tu-usuario?tab=repositories).
+En mis repositorios encontrarás algunos de los trabajos que he realizado durante mi carrera, junto con una explicación de su propósito y funcionamiento. [repositorios](https://github.com/ambararr?tab=repositories).
 
 
 ## 📫 Contacto
