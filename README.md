@@ -21,11 +21,8 @@ Estudiante de Ciencias Computacionales en la UANL, apasionada por el desarrollo 
 
 En mis repositorios encontrarás algunos de los trabajos que he realizado durante mi carrera, junto con una explicación de su propósito y funcionamiento. [repositorios](https://github.com/tu-usuario?tab=repositories).
 
-## 📊 Estadísticas
-
-![Ámbar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default)
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-correo-real@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ambar.rdz05@gmail.com)
